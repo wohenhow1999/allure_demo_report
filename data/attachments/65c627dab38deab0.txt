@@ -1,0 +1,4 @@
+2025-08-11 01:12:15 [INFO] TestWebUI.test_google_navigation() Navigating to https://www.google.com ...
+2025-08-11 01:12:16 [INFO] TestWebUI.test_google_navigation() Title validation passed: 'Google'
+2025-08-11 01:12:16 [INFO] TestWebUI.test_google_navigation() URL validation passed: 'https://www.google.com/'
+2025-08-11 01:12:16 [INFO] TestWebUI.test_google_navigation() Successfully opened page: https://www.google.com
